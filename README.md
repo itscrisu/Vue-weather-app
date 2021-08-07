@@ -12,7 +12,7 @@ npm install
 
 ## Compile and hot-reload for development
 ```
-npm run serve
+npm run build
 ```
 
 ## Compile for production
